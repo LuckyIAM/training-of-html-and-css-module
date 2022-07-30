@@ -62,7 +62,7 @@ header{
     border-radius: 10px;
     display: flex;
     gap:20px;
-    background-color: rgba(73, 85, 248, 0.63);
+    background-color: rgb(73, 85, 248);
 }
 .info__card:hover{
     animation: zoom;
